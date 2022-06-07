@@ -1,6 +1,9 @@
 # Guitar + JavaScript
 
-This tutorial demonstrates shows how to create a basic guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/guitar/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/guitar/tree/gh-pages).
+This tutorial demonstrates shows how to create a guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/guitar/tree/main). Here is a [basic demo](https://squarepoet.github.io/guitar/v1) of what we will build together.
+
+![Telecaster](i/tele.jpg)
+
 
 ## Audio
 
@@ -16,7 +19,7 @@ alert('Hello World');
 
 ## Graphics
 
-Let's make some graphics for our guitar. We will use SVG.
+Let's make some graphics for our guitar. We will can use SVG to draw shapes for the body and neck of the guitar. If you want to skip this step, feel free to [download this JPEG](i/tele.jpg) to use as a background image for your guitar.
 
 ```js
 alert('Hello World');
@@ -32,5 +35,9 @@ alert('Hello World');
 
 
 ### See
-* JS Piano
-* JS Music Theory
+* [JS Piano](https://piano.js.org)
+* [JS Music Theory](https://music.js.org)
+
+### More Resources
+* https://gym.pencilcode.net/ref/play.html
+* https://gym.pencilcode.net/jam/#/jam/twinkle.html
