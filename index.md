@@ -1,6 +1,6 @@
 # Guitar + JavaScript
 
-This tutorial demonstrates shows how to create a basic guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/piano/tree/gh-pages).
+This tutorial demonstrates shows how to create a basic guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/guitar/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/guitar/tree/gh-pages).
 
 ## Audio
 
