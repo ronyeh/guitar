@@ -1,6 +1,6 @@
 {
     "name": "go-guitar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Learn Guitar",
     "type": "module",
     "main": "build/esm/index.js",
