@@ -1,6 +1,6 @@
 # Guitar + JavaScript
 
-This tutorial demonstrates shows how to create a guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/guitar/tree/main). Here is a [basic demo](https://squarepoet.github.io/guitar/v1) of what we will build together.
+This tutorial shows how to create a guitar in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/guitar/). Here is a [basic demo](https://squarepoet.github.io/guitar/v1) of what we will build together. It will eventually look similar to the image below:
 
 ![Telecaster](i/tele.jpg)
 
@@ -11,9 +11,10 @@ First, we will need to play individual notes from our virtual guitar. We can use
 * Musical
 * Tone
 
-Synthesizing a guitar string is an advanced topic for another day. For now, we will use audio sampled from a real guitar.
+Synthesizing a guitar string is an advanced topic for another day. For now, we will use audio sampled from a real guitar. Our sample files were recorded from a Fender Telecaster.
 
 ```js
+// TODO
 alert('Hello World');
 ```
 
@@ -22,14 +23,16 @@ alert('Hello World');
 Let's make some graphics for our guitar. We will can use SVG to draw shapes for the body and neck of the guitar. If you want to skip this step, feel free to [download this JPEG](i/tele.jpg) to use as a background image for your guitar.
 
 ```js
+// TODO
 alert('Hello World');
 ```
 
 ## Interaction
 
-Now we need to let the user interact with the guitar, through the mouse and keyboard (or through tapping and swiping on a touch screen).
+Now we need to support user interaction with the guitar. We can do this by detecting mouse and keyboard events (or touch events on a mobile device).
 
 ```js
+// TODO
 alert('Hello World');
 ```
 
